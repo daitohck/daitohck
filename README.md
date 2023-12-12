@@ -6,7 +6,7 @@
 Discord => daito_hck
 
 Certification :
-- 📕 Working on CPTS (hackthebox certification).
+- 📕 Working on CPTS (HackTheBox Certification).
 - OSCP soon ...
 
 Passions :
