@@ -6,8 +6,8 @@
 Discord => daito_hck
 
 Certification :
-- 📕 Working on CPTS (HackTheBox Certification).
-- OSCP soon ...
+- CPTS (HackTheBox Certification).
+- CBBH soon ...
 
 Passions :
 👾 Developing malwares
