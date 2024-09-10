@@ -12,7 +12,8 @@ Certification :
 Passions :
 👾 Developing malwares
 🥷 Redteam/Physical Intrusion
-🕵️ OSINT 
+🕵️ OSINT
+🥷 Pentest
 
 Mojo : i'm not a stalker i'm a osinter
 
